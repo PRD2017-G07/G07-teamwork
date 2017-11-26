@@ -4124,7 +4124,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "查看收到的系统信息",
+											"text": "查看网站通知",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -4192,7 +4192,7 @@
 									"containerExtending": false,
 									"left": 596.5,
 									"top": 652.5,
-									"width": 136,
+									"width": 135,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -29043,7 +29043,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "查看收到的系统信息",
+					"name": "查看网站通知",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
