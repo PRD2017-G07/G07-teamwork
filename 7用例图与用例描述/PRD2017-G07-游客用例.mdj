@@ -2013,51 +2013,6 @@
 						},
 						{
 							"_type": "UMLAssociation",
-							"_id": "AAAAAAFfxarS8GBuTKA=",
-							"_parent": {
-								"$ref": "AAAAAAFfxaed5l0Qu/I="
-							},
-							"end1": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAFfxarS8GBveV4=",
-								"_parent": {
-									"$ref": "AAAAAAFfxarS8GBuTKA="
-								},
-								"reference": {
-									"$ref": "AAAAAAFfxaed5l0Qu/I="
-								},
-								"visibility": "public",
-								"navigable": false,
-								"aggregation": "none",
-								"isReadOnly": false,
-								"isOrdered": false,
-								"isUnique": false,
-								"isDerived": false,
-								"isID": false
-							},
-							"end2": {
-								"_type": "UMLAssociationEnd",
-								"_id": "AAAAAAFfxarS8GBwI/s=",
-								"_parent": {
-									"$ref": "AAAAAAFfxarS8GBuTKA="
-								},
-								"reference": {
-									"$ref": "AAAAAAFfxaqQvF9SqpE="
-								},
-								"visibility": "public",
-								"navigable": true,
-								"aggregation": "none",
-								"isReadOnly": false,
-								"isOrdered": false,
-								"isUnique": false,
-								"isDerived": false,
-								"isID": false
-							},
-							"visibility": "public",
-							"isDerived": false
-						},
-						{
-							"_type": "UMLAssociation",
 							"_id": "AAAAAAFgUvXf6wf1pkg=",
 							"_parent": {
 								"$ref": "AAAAAAFfxaed5l0Qu/I="
@@ -2123,18 +2078,6 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "查看主页",
-					"visibility": "public",
-					"isAbstract": false,
-					"isFinalSpecialization": false,
-					"isLeaf": false
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAFfxaqQvF9SqpE=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "退出",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
